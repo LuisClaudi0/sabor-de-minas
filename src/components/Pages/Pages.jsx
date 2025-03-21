@@ -40,8 +40,8 @@ export const Pages = ({ page }) => {
     <>
       <div className='content pages-content'>
         {data === history 
-        ? <img className='img' src="public\assets\img\GASTRONOMIA-MINEIRA.svg" alt="Banner Gastronomia Mineira" />
-        : <img className='img' src="public\assets\img\CURIOSIDADES.svg" alt="Banner Curiosidades" />
+        ? <img className='img' src="\assets\img\GASTRONOMIA-MINEIRA.svg" alt="Banner Gastronomia Mineira" />
+        : <img className='img' src="\assets\img\CURIOSIDADES.svg" alt="Banner Curiosidades" />
         }
         
         <div className='content-text'>
