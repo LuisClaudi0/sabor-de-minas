@@ -1,5 +1,5 @@
 import './Home.css'
-import Coffee from '../Utils/Coffee'
+import Coffee from '../Utils/Coffee/Coffee'
 
 export const Home = () => {
   return (

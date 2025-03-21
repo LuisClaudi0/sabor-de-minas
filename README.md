@@ -92,7 +92,7 @@ This project was developed to deepen my knowledge in **React and frontend develo
 ## 🌟 Screenshots
 
 ![Recipes Page](public/assets/img/SCREENSHOTS/1.png)
-![Home Page](public/assets/img/SCREENSHOTS/2.png)
+![Home Page](public/assets/img/SCREENSHOTS/3.png)
 
 ---
 
