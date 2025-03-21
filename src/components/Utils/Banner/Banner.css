@@ -1,0 +1,17 @@
+.banner{
+  background-image: url(../../../assets/img/BANNER-LARANJA.svg);
+  background-size: cover;
+  height: 200px;
+  margin: 0 35px;
+  border-radius: 20px;
+  margin-top: 70px;
+  margin-bottom: 30px;
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 900px){
+  .banner{
+    margin-top: 0;
+    height: 130px;
+  }
+}

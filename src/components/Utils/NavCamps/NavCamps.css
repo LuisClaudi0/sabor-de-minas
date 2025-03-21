@@ -1,0 +1,42 @@
+.camp{
+  padding:35px 10px 35px 20px;
+  background-color: var(--third-color);
+  border-radius: 10px;
+  color: var(--first-color);
+  font-family: var(--sec-font);
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  flex-wrap: wrap;
+}
+
+.camp input{
+  width: 70%;
+  padding: 5px;
+  border: 1px solid var(--first-color);
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+.camp input::placeholder{
+  color: var(--first-color);
+}
+
+.camp input:focus{
+  outline: none;
+}
+
+.camp-input{
+  padding: 30px 5px 30px 15px !important;
+  cursor: auto;
+}
+
+.active-link{
+  text-decoration: underline;
+}
+
+@media (max-width: 900px){
+
+}

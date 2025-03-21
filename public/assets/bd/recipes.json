@@ -1,0 +1,394 @@
+{
+  "receitas": [
+
+
+    {
+      "id": "1",
+      "name": "Torresmo",
+      "category": "Entrada",
+      "img_path": "assets/img/RECIPE-BACKGROUND/TORRESMO.svg", 
+      "small_description": "Barriga de porco frita até ficar crocante e dourada.",
+      "description": "O torresmo é um clássico petisco mineiro, muito apreciado em bares e reuniões familiares. Feito a partir da fritura da pele e gordura do porco, é crocante e saboroso.",
+      "ingredients": [
+        "500g de barriga de porco cortada em cubos",
+        "Sal a gosto",
+        "1 xícara de óleo para fritar"
+      ],
+      "preparation": [
+        "1. Tempere os cubos de barriga de porco com sal e deixe descansar por 30 minutos.",
+        "2. Em uma panela, aqueça o óleo e frite os pedaços de porco até ficarem dourados e crocantes.",
+        "3. Retire e escorra sobre papel toalha antes de servir."
+      ]
+    },
+
+    
+    {
+      "id": "2",
+      "name": "Bolinho de Arroz",
+      "category": "Entrada",
+      "img_path": "assets/img/RECIPE-BACKGROUND/BOLINHO-DE-ARROZ.svg",
+      "small_description": "Bolinho frito e crocante por fora, macio por dentro, feito com arroz, queijo e temperos.",
+      "description": "O bolinho de arroz é um prato simples e saboroso, tradicional em várias partes do Brasil. Ele surgiu como uma forma de reaproveitar o arroz que sobrou, sendo um lanche prático e popular em Minas Gerais.",
+      "ingredients": [
+        "2 xícaras de arroz cozido",
+        "1/2 xícara de queijo minas ralado",
+        "1/4 de xícara de leite",
+        "1 ovo",
+        "1/4 de xícara de farinha de trigo",
+        "1 colher de chá de fermento em pó",
+        "1 colher de chá de sal",
+        "Óleo para fritar"
+      ],
+      "preparation": [
+        "1. Em uma tigela, misture o arroz cozido, o queijo minas, o leite, o ovo, a farinha, o fermento e o sal até formar uma massa homogênea.",
+        "2. Modele os bolinhos com as mãos ou usando duas colheres, formando pequenas porções.",
+        "3. Aqueça o óleo em uma frigideira e frite os bolinhos até ficarem dourados e crocantes por fora.",
+        "4. Retire os bolinhos e coloque-os em papel toalha para remover o excesso de óleo.",
+        "5. Sirva quente, acompanhado de molho de pimenta ou vinagrete."
+      ]
+    },
+
+
+    {
+      "id": "3",
+      "name": "Tutu de Feijão",
+      "category": "Entrada",
+      "img_path": "assets/img/RECIPE-BACKGROUND/TUTU-DE-FEIJAO.svg",
+      "small_description": "Feijão engrossado com farinha de mandioca e temperos mineiros.",
+      "description": "O tutu de feijão é um prato típico da culinária mineira, herdado dos indígenas e aperfeiçoado ao longo dos anos. Seu nome vem do termo indígena 'tutu', que significa mistura espessa.",
+      "ingredients": [
+        "500g de feijão cozido",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 xícara de farinha de mandioca",
+        "100g de bacon em cubos",
+        "Sal e pimenta a gosto",
+        "Cheiro-verde a gosto"
+      ],
+      "preparation": [
+        "1. Em uma panela, frite o bacon até dourar, depois adicione a cebola e o alho, refogando bem.",
+        "2. Acrescente o feijão cozido e mexa, amassando levemente.",
+        "3. Adicione a farinha de mandioca aos poucos, misturando até engrossar.",
+        "4. Tempere com sal, pimenta e cheiro-verde a gosto. Sirva quente."
+      ]
+    },
+
+
+    {
+      "id": "4",
+      "name": "Pastel de Angu",
+      "category": "Entrada",
+      "img_path": "assets/img/RECIPE-BACKGROUND/PASTEL-DE-ANGU.svg",
+      "small_description": "Massa de angu recheada com carne ou queijo e frita até ficar crocante.",
+      "description": "O pastel de angu surgiu na cidade de Itabirito, em Minas Gerais, como uma alternativa à massa tradicional de farinha de trigo, utilizando fubá de milho. Hoje, é uma iguaria amplamente apreciada.",
+      "ingredients": [
+        "2 xícaras de fubá de milho",
+        "3 xícaras de água",
+        "1 colher de sopa de manteiga",
+        "Sal a gosto",
+        "Recheio de carne moída ou queijo",
+        "Óleo para fritar"
+      ],
+      "preparation": [
+        "1. Em uma panela, ferva a água com sal e manteiga.",
+        "2. Adicione o fubá aos poucos, mexendo sem parar até formar uma massa firme.",
+        "3. Deixe esfriar um pouco e abra pequenas porções da massa com as mãos.",
+        "4. Recheie com carne moída ou queijo, feche e modele em formato de pastel.",
+        "5. Frite em óleo quente até dourar e sirva."
+      ]
+    },
+
+
+    {
+      "id": "5",
+      "name": "Feijão Tropeiro",
+      "category": "Prato Principal",
+      "img_path": "assets/img/RECIPE-BACKGROUND/FEIJAO-TROPEIRO.svg",
+      "small_description": "Uma receita típica dos tropeiros, com feijão, farinha e carne de porco.",
+      "description": "O feijão tropeiro era um prato muito consumido pelos tropeiros que percorriam o Brasil transportando mercadorias no período colonial. Sua composição permitia ser armazenado por longos períodos sem estragar.",
+      "ingredients": [
+        "500g de feijão carioca cozido e escorrido",
+        "200g de bacon em cubos",
+        "200g de linguiça calabresa em rodelas",
+        "1 cebola picada",
+        "3 dentes de alho picados",
+        "2 xícaras de farinha de mandioca",
+        "2 ovos",
+        "Cheiro-verde a gosto",
+        "Sal e pimenta-do-reino a gosto"
+      ],
+      "preparation": [
+        "1. Frite o bacon e a linguiça até dourarem, depois adicione a cebola e o alho e refogue bem.",
+        "2. Acrescente o feijão cozido e misture bem, temperando com sal e pimenta.",
+        "3. Adicione os ovos mexidos e a farinha de mandioca aos poucos, misturando até incorporar.",
+        "4. Finalize com cheiro-verde e sirva quente."
+      ]
+    },
+
+
+    {
+      "id": "6",
+      "name": "Frango com Quiabo",
+      "category": "Prato Principal",
+      "img_path": "assets/img/RECIPE-BACKGROUND/FRANGO-COM-QUIABO.svg",
+      "small_description": "Um prato típico mineiro, combinando frango caipira e quiabo refogado.",
+      "description": "O frango com quiabo tem raízes na culinária afro-brasileira e é um dos pratos mais emblemáticos de Minas Gerais. Ele combina o sabor suculento do frango caipira com a leve viscosidade do quiabo.",
+      "ingredients": [
+        "1 kg de frango caipira em pedaços",
+        "300g de quiabo cortado em rodelas",
+        "2 dentes de alho picados",
+        "1 cebola picada",
+        "2 tomates picados",
+        "Cheiro-verde a gosto",
+        "Sal e pimenta-do-reino a gosto",
+        "Óleo para refogar"
+      ],
+      "preparation": [
+        "1. Tempere o frango com sal, pimenta e alho e deixe marinar por 30 minutos.",
+        "2. Em uma panela, aqueça o óleo e doure os pedaços de frango.",
+        "3. Adicione a cebola, os tomates e refogue bem.",
+        "4. Acrescente um pouco de água e cozinhe até o frango ficar macio.",
+        "5. Em outra panela, refogue o quiabo até reduzir a baba e misture ao frango.",
+        "6. Finalize com cheiro-verde e sirva."
+      ]
+    },
+
+
+    {
+      "id": "7",
+      "name": "Leitão à Pururuca",
+      "category": "Prato Principal",
+      "img_path": "assets/img/RECIPE-BACKGROUND/LEITAO-A-PURURUCA.svg",
+      "small_description": "Leitão assado até a pele ficar crocante e pururucada.",
+      "description": "Esse prato tradicional mineiro remonta aos tempos coloniais e é servido em festas e celebrações. A técnica de pururucar a pele deixa a carne macia por dentro e crocante por fora.",
+      "ingredients": [
+        "1 leitão pequeno (aproximadamente 5 kg)",
+        "Sal grosso a gosto",
+        "2 colheres de sopa de manteiga",
+        "Óleo quente para pururucar"
+      ],
+      "preparation": [
+        "1. Esfregue o sal grosso por todo o leitão e deixe marinar por algumas horas.",
+        "2. Passe a manteiga sobre a pele e asse em forno médio por aproximadamente 4 horas.",
+        "3. Aqueça o óleo bem quente e derrame sobre a pele do leitão para pururucar.",
+        "4. Sirva quente acompanhado de farofa e arroz."
+      ]
+    },
+
+
+    {
+      "id": "8",
+      "name": "Angu à Baiana",
+      "category": "Prato Principal",
+      "img_path": "assets/img/RECIPE-BACKGROUND/ANGU-A-BAIANA.svg",
+      "small_description": "Um ensopado de carne servido com angu de fubá bem cremoso.",
+      "description": "Apesar do nome, esse prato é tipicamente mineiro e combina a simplicidade do angu de fubá com um saboroso ensopado de carne bem temperado.",
+      "ingredients": [
+        "2 xícaras de fubá de milho",
+        "5 xícaras de água",
+        "500g de carne bovina (acém ou músculo)",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "2 tomates picados",
+        "Cheiro-verde a gosto",
+        "Sal e pimenta-do-reino a gosto",
+        "Óleo para refogar"
+      ],
+      "preparation": [
+        "1. Cozinhe a carne com cebola, alho e tomates até ficar macia, adicionando água conforme necessário.",
+        "2. Em outra panela, misture o fubá com água fria e leve ao fogo baixo, mexendo sempre até engrossar.",
+        "3. Tempere o angu com sal e sirva acompanhado da carne ensopada e cheiro-verde."
+      ]
+    },
+
+
+    {
+      "id": "9",
+      "name": "Broa de Milho",
+      "category": "Lanche e Quitanda",
+      "img_path": "assets/img/RECIPE-BACKGROUND/BROA-DE-MILHO.svg",
+      "small_description": "Broa mineira feita com fubá, crocante por fora e macia por dentro.",
+      "description": "A broa de milho é um clássico das quitandas mineiras, muito apreciada no café da manhã ou da tarde. Sua receita foi trazida pelos colonizadores portugueses e adaptada com ingredientes locais.",
+      "ingredients": [
+        "2 xícaras de fubá de milho",
+        "1 xícara de farinha de trigo",
+        "1 xícara de açúcar",
+        "1 colher de sopa de fermento em pó",
+        "2 ovos",
+        "1/2 xícara de leite",
+        "3 colheres de sopa de manteiga",
+        "1 pitada de sal"
+      ],
+      "preparation": [
+        "1. Misture o fubá, a farinha, o açúcar, o fermento e o sal em uma tigela.",
+        "2. Acrescente os ovos, o leite e a manteiga derretida, misturando até formar uma massa homogênea.",
+        "3. Modele pequenas broas e coloque em uma assadeira untada.",
+        "4. Asse em forno preaquecido a 180°C por cerca de 30 minutos ou até dourar."
+      ]
+    },
+
+
+    {
+      "id": "10",
+      "name": "Bolo de Fubá",
+      "category": "Lanche e Quitanda",
+      "img_path": "assets/img/RECIPE-BACKGROUND/BOLO-DE-FUBA.svg",
+      "small_description": "Bolo macio e aromático, feito com fubá e erva-doce.",
+      "description": "O bolo de fubá é uma tradição mineira, servido com café e repleto de sabor e simplicidade. Suas origens remontam ao período colonial, quando o fubá era um dos principais ingredientes disponíveis.",
+      "ingredients": [
+        "2 xícaras de fubá de milho",
+        "1 xícara de farinha de trigo",
+        "1 e 1/2 xícara de açúcar",
+        "1 colher de sopa de fermento em pó",
+        "3 ovos",
+        "1 xícara de leite",
+        "1/2 xícara de óleo",
+        "1 colher de chá de erva-doce (opcional)"
+      ],
+      "preparation": [
+        "1. Bata os ovos, o açúcar e o óleo até formar uma mistura homogênea.",
+        "2. Acrescente o fubá, a farinha, o leite e a erva-doce, misturando bem.",
+        "3. Por último, adicione o fermento e mexa delicadamente.",
+        "4. Despeje em uma forma untada e asse em forno preaquecido a 180°C por cerca de 40 minutos."
+      ]
+    },
+
+
+    {
+      "id": "11",
+      "name": "Pão de Queijo",
+      "category": "Lanche e Quitanda",
+      "img_path": "assets/img/RECIPE-BACKGROUND/PAO-DE-QUEIJO.svg",
+      "small_description": "O clássico pão de queijo mineiro, crocante por fora e macio por dentro.",
+      "description": "O pão de queijo surgiu no século XVIII, nas fazendas mineiras, como uma variação dos pães europeus, adaptados à disponibilidade local de polvilho e queijo. Hoje, é um dos símbolos gastronômicos de Minas Gerais.",
+      "ingredients": [
+        "500g de polvilho doce",
+        "250ml de leite",
+        "125ml de óleo",
+        "2 ovos",
+        "200g de queijo minas curado ralado",
+        "1 colher de chá de sal"
+      ],
+      "preparation": [
+        "1. Em uma panela, aqueça o leite, o óleo e o sal até começar a ferver.",
+        "2. Em uma tigela, despeje o líquido quente sobre o polvilho e misture bem.",
+        "3. Deixe esfriar um pouco e adicione os ovos e o queijo, misturando até formar uma massa homogênea.",
+        "4. Modele bolinhas com as mãos untadas e coloque em uma assadeira untada ou forrada com papel manteiga.",
+        "5. Asse em forno preaquecido a 180°C por cerca de 25 minutos ou até dourar."
+      ]
+    },
+
+
+    {
+      "id": "12",
+      "name": "Queijadinha Mineira",
+      "category": "Lanche e Quitanda",
+      "img_path": "assets/img/RECIPE-BACKGROUND/QUEIJADINHA-MINEIRA.svg",
+      "small_description": "Doce cremoso feito com queijo e coco ralado.",
+      "description": "A queijadinha é um doce de origem portuguesa que se popularizou em Minas Gerais, ganhando versões com ingredientes locais, como o queijo minas e o coco ralado.",
+      "ingredients": [
+        "2 ovos",
+        "1 lata de leite condensado",
+        "50g de queijo minas meia cura ralado",
+        "50g de coco ralado",
+        "1 colher de sopa de manteiga",
+        "1 colher de chá de fermento em pó"
+      ],
+      "preparation": [
+        "1. Misture todos os ingredientes em uma tigela até formar uma massa homogênea.",
+        "2. Distribua a massa em forminhas de papel dentro de formas de empada.",
+        "3. Asse em forno preaquecido a 180°C por cerca de 20 minutos ou até dourar.",
+        "4. Deixe esfriar antes de desenformar e servir."
+      ]
+    },
+
+
+    {
+      "id": "13",
+      "name": "Pé de Moleque",
+      "category": "Sobremesa",
+      "img_path": "assets/img/RECIPE-BACKGROUND/PE-DE-MOLEQUE.svg",
+      "small_description": "Doce crocante de amendoim e rapadura, típico das festas juninas.",
+      "description": "O pé de moleque tem origem na época colonial, quando a rapadura era muito utilizada como adoçante. Em Minas Gerais, o doce se tornou tradição e é presença garantida nas festas típicas do estado.",
+      "ingredients": [
+        "500g de amendoim torrado e sem pele",
+        "2 xícaras de açúcar",
+        "1 xícara de rapadura ralada",
+        "1 colher de sopa de manteiga",
+        "1 lata de leite condensado"
+      ],
+      "preparation": [
+        "1. Em uma panela, derreta o açúcar e a rapadura em fogo médio até formar um caramelo.",
+        "2. Acrescente o amendoim e a manteiga, misturando bem.",
+        "3. Adicione o leite condensado e cozinhe até a mistura desgrudar do fundo da panela.",
+        "4. Despeje a mistura em uma superfície untada, espalhe e deixe esfriar antes de cortar em pedaços."
+      ]
+    },
+    
+
+    {
+      "id": "14",
+      "name": "Doce de Leite",
+      "category": "Sobremesa",
+      "img_path": "assets/img/RECIPE-BACKGROUND/DOCE-DE-LEITE.svg",
+      "small_description": "O mais tradicional doce mineiro, feito apenas com leite e açúcar.",
+      "description": "O doce de leite mineiro é um dos mais apreciados do Brasil. Sua receita simples remonta aos tempos das fazendas coloniais, onde o leite era fervido por longas horas até atingir a consistência cremosa característica.",
+      "ingredients": [
+        "2 litros de leite integral",
+        "4 xícaras de açúcar",
+        "1 pitada de bicarbonato de sódio (opcional, para evitar a cristalização)"
+      ],
+      "preparation": [
+        "1. Em uma panela grande, misture o leite e o açúcar.",
+        "2. Cozinhe em fogo médio, mexendo sempre para evitar que grude no fundo.",
+        "3. Acrescente o bicarbonato quando começar a engrossar.",
+        "4. Continue mexendo até atingir a cor e consistência desejadas.",
+        "5. Deixe esfriar antes de servir."
+      ]
+    },
+
+
+    {
+      "id": "15",
+      "name": "Ambrosia",
+      "category": "Sobremesa",
+      "img_path": "assets/img/RECIPE-BACKGROUND/AMBROSIA.svg",
+      "small_description": "Doce de ovos e leite, cremoso e levemente caramelizado.",
+      "description": "A ambrosia tem origem portuguesa e chegou ao Brasil durante o período colonial. Em Minas Gerais, ganhou popularidade devido à abundância de leite e açúcar, tornando-se um clássico das sobremesas caseiras.",
+      "ingredients": [
+        "1 litro de leite",
+        "2 xícaras de açúcar",
+        "4 ovos",
+        "1 pau de canela",
+        "Casca de 1 limão",
+        "1 colher de sopa de suco de limão"
+      ],
+      "preparation": [
+        "1. Ferva o leite com o açúcar, a canela e a casca de limão.",
+        "2. Bata os ovos e misture com o suco de limão.",
+        "3. Despeje os ovos batidos no leite fervente, sem mexer muito, para formar grumos.",
+        "4. Cozinhe em fogo baixo até caramelizar levemente.",
+        "5. Retire a canela e a casca de limão antes de servir."
+      ]
+    },
+
+
+    {
+      "id": "16",
+      "name": "Queijo com Goiabada (Romeu e Julieta)",
+      "category": "Sobremesa",
+      "img_path": "assets/img/RECIPE-BACKGROUND/QUEIJO-COM-GOIABADA.svg",
+      "small_description": "Clássica combinação mineira de queijo minas e goiabada.",
+      "description": "A mistura de queijo minas e goiabada se tornou um símbolo da culinária mineira, equilibrando o doce e o salgado de forma perfeita. O nome 'Romeu e Julieta' faz referência à famosa peça de Shakespeare, representando a união de dois sabores opostos.",
+      "ingredients": [
+        "200g de queijo minas frescal",
+        "200g de goiabada"
+      ],
+      "preparation": [
+        "1. Corte a goiabada e o queijo em fatias iguais.",
+        "2. Sirva empilhando uma fatia de queijo e uma de goiabada.",
+        "3. Se desejar, aqueça levemente a goiabada para deixá-la mais cremosa antes de servir."
+      ]
+    }
+  ]
+}

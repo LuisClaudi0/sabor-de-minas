@@ -1,0 +1,11 @@
+.nav{
+  width: 200px;
+  margin: 45px 15px 20px 45px;
+  position: fixed;
+}
+
+@media (max-width: 750px){
+  .nav{
+    display: none;
+  }
+}
